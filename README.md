@@ -104,14 +104,11 @@ Venue: SC 3124
 Members Present (with roles): All
 Agenda:
 Iteration 1 Meeting with TA
-
 Meeting notes:
 Moderator: Tao
 Scribe: Austin
 Tao shared entire screen and Scott called in.
 Tao moderated.
- 
-               Tao - 
 we chose the chatroom topic
 we chose Topic 11 because it is underused and allows the control of jenkins
 We have met 5 times so far.
@@ -120,18 +117,18 @@ Anna -
 reviewed agenda and the basics of how the plugin systems works with jenkins and the irc chat.
 reviewed why we chose the irc plugin.
 discussed why we did not chose slack plugin
-        Zehao - 
+Zehao - 
 powerful plugin bot of instant messaging plugin is being used
 overviewed bot class structure
-       Scott discussed user stories
-       Yuhang -discussed our specific user stories
-       Jinan -plans moving forward
-       Austin -reviewed jenkins install of irc plugin
-       Ryan - demonstrated how IRC works with the jenkins bot
-       Tao - 
+Scott discussed user stories
+Yuhang -discussed our specific user stories
+Jinan -plans moving forward
+Austin -reviewed jenkins install of irc plugin
+Ryan - demonstrated how IRC works with the jenkins bot
+Tao - 
 Demonstrated how our spike solution works.
 Deliverables by next meeting:
-               Semih(TA) feedback-
+Semih(TA) feedback-
  Each pair should be aware of the progress/solution of other pairs, in iteration 2 meeting, Semih may assign a pair randomly to review other pair's code.
  Pairs should identify the approach of programming, e.g. pair programming or other.
  Reminder our group to tag a working version properly for iteration 2 meeting.
