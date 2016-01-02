@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Group-Id: org.jvnet.hudson.plugins
+Short-Name: instant-messaging
+Long-Name: Jenkins instant-messaging plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Instant+Messaging+Plugin
+Plugin-Version: 1.36-SNAPSHOT (private-11/01/2015 14:15-mac)
+Hudson-Version: 1.596
+Jenkins-Version: 1.596
+Plugin-Dependencies: analysis-core:1.0;resolution:=optional,mailer:1.7
+ ,ci-game:1.16;resolution:=optional,matrix-project:1.4,junit:1.7
+Plugin-Developers: Christoph Kutzinski:kutzi:kutzi@gmx.de,Kohsuke Kawa
+ guchi:kohsuke:kk@kohsuke.org
+Support-Dynamic-Loading: true
+Libraries: /Users/mac/_projects/BookReaders/instant-messaging-plugin-m
+ aster/trunk/target/classes,/Users/mac/.m2/repository/commons-lang/com
+ mons-lang/2.4/commons-lang-2.4.jar
+Resource-Path: /Users/mac/_projects/BookReaders/instant-messaging-plug
+ in-master/trunk/src/main/webapp
+

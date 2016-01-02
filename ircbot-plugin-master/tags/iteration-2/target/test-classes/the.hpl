@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Group-Id: org.jvnet.hudson.plugins
+Short-Name: ircbot
+Long-Name: Jenkins IRC Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/IRC+Plugin
+Plugin-Version: 2.27-SNAPSHOT (private-12/03/2015 19:11-mac)
+Hudson-Version: 1.565
+Jenkins-Version: 1.565
+Plugin-Dependencies: ci-game:1.16;resolution:=optional,instant-messagi
+ ng:1.35,analysis-core:1.0;resolution:=optional
+Plugin-Developers: Christoph Kutzinski:kutzi:kutzi@gmx.de
+Support-Dynamic-Loading: true
+Libraries: /Users/mac/_projects/BookReaders/ircbot-plugin-master/tags/
+ iteration-2/target/classes,/Users/mac/.m2/repository/commons-codec/co
+ mmons-codec/1.8/commons-codec-1.8.jar,/Users/mac/.m2/repository/org/s
+ lf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar,/Users/mac/.m2/repository/co
+ m/google/guava/guava/15.0/guava-15.0.jar,/Users/mac/.m2/repository/or
+ g/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar,/Users/mac/.
+ m2/repository/org/pircbotx/pircbotx/2.0.1/pircbotx-2.0.1.jar
+Resource-Path: /Users/mac/_projects/BookReaders/ircbot-plugin-master/t
+ ags/iteration-2/src/main/webapp
+
