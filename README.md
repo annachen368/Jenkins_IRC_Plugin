@@ -1,4 +1,5 @@
 # UIUC BookReaders Group Project for Jenkins IRC Plugin
+This is the mirror from UIUC VM repo
 ## Team Members
 Jung-chen (Anna), Ryan, Hongjae, Tao, Austin, Scott, Zehao, Jinian, Yuhang
 ## Project Proposal
